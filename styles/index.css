@@ -1,0 +1,41 @@
+body>h1{
+    color: #420516;
+    font-family: sans-serif;
+    text-align: center;
+}
+.copyright{
+    color: darkblue;
+}
+.topimage{
+    height: 30%;
+    width: 10%;
+}
+body{
+    background-image: url('../images/images2.jpg') ;
+    background-size: 1500px;
+}
+
+#P1{
+    color: #2A0944;
+    opacity: 40%;
+}
+#P2{
+    color: #3B185F;
+    opacity: 40%;
+}
+#P3{
+    color: #A12568;
+    opacity: 40%;
+}
+#P4{
+    color: #7D1935;
+    opacity: 40%;
+}
+#P5{
+    color: #E63E6D;
+    opacity: 40%;
+}
+#P6{
+    color: #B42B51;
+    opacity: 40%;
+}
